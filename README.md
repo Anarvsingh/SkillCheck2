@@ -5,56 +5,8 @@ Credentials - username - revengerider922@gmail.com
               password - RevengeRider_12345
 
 
-```markdown
-# Remote Interview Platform 🚀
 
-[![Next.js](https://img.shields.io/badge/Next.js-13+-000000?logo=next.js)](https://nextjs.org/)
-[![Convex](https://img.shields.io/badge/Convex-Database-FF6C37)](https://convex.dev/)
-[![Stream](https://img.shields.io/badge/Stream-Video_API-F04F8E)](https://getstream.io/)
-[![Clerk](https://img.shields.io/badge/Clerk-Auth-4A47B0)](https://clerk.dev/)
 
-A modern platform for conducting technical interviews remotely with real-time collaboration features and video conferencing capabilities.
-
-![Platform Screenshot](./public/screenshot.png) <!-- Add actual screenshot path -->
-
-## Features ✨
-
-- **Role-based Access** (Candidate/Interviewer)
-- **Interview Scheduling** with calendar integration
-- **Real-time Video Interviews** powered by Stream
-- **Collaborative Code Editor** (optional - add if implemented)
-- **Authentication & Authorization** using Clerk
-- **Interview Dashboard** with upcoming/past sessions
-- **Meeting Recording** (optional - add if implemented)
-- **Real-time Notifications**
-
-## Tech Stack 🛠️
-
-- **Framework**: Next.js 13+ (App Router)
-- **Database**: Convex
-- **Authentication**: Clerk
-- **Video API**: Stream Video SDK
-- **UI**: Shadcn/ui + Tailwind CSS
-- **State Management**: React Query
-- **Form Handling**: React Hook Form
-- **Date Management**: date-fns + react-day-picker
-
-## Getting Started 🚀
-
-### Prerequisites
-
-- Node.js 18+
-- npm 9+ or yarn 1.22+
-- Convex account
-- Stream account
-- Clerk account
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/burakorkmez/remote-interview-platform.git
-```
 
 2. Install dependencies:
 ```bash
