@@ -1,5 +1,5 @@
 
-Check out the App - https://flowing-wombat-67.accounts.dev/sign-in?redirect_url=https%3A%2F%2Fhirefy-u5c8.vercel.app%2F
+Check out the App - hirefy-u5c8.vercel.app
 Credentials - username - revengerider922@gmail.com
               password - Revengerider_12345
 
